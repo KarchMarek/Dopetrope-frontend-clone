@@ -1,4 +1,4 @@
-# Dopetrope Frontend Clone
+# Dopetrope Frontend Clone (Multi-Section Website Layout)
 
 A simplified frontend recreation inspired by the Dopetrope template from HTML5 UP. This educational portfolio project focuses on recreating the structure and visual design of a multi-section webpage using semantic HTML and CSS.
 
